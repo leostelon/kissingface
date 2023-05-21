@@ -23,6 +23,7 @@ The product contains three code bases, Server to serve Bacalhau commands and Cli
 
 # Technology
  - **Bacalhau** hosted on **Spheron Decentralized Compute** [[know more]](https://spheron.network/#decentralised-compute), served using Node.js and Express.js server through APIs.
+	 - Find bacalhau and other APIs logic [here](https://github.com/leostelon/kissingface-server/tree/main/src/routes).
  - Database, **Polybase** is the database for web3. [[know more]](https://polybase.xyz/)
 	- Find schemas and logic [here](https://github.com/leostelon/kissingface-server/tree/main/src/polybase).
 - Datasets and models are stored in Decentralized storage using **Spheron Storage SDK**, [[know more]](https://spheron.network/#storage-sdk)
