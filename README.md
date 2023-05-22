@@ -6,6 +6,12 @@ Kissing Face is a decentralized version of [Hugging Face](https://huggingface.co
 ![Home Page](https://kissing-face-09fc6f51-bc74-41e7-9ecf-433804ba-7ecac0.spheron.app/Screenshot_11.png)
 [](https://kissingface.xyz)<center>https://kissingface.xyz</center>
 
+> 🔴**IMPORTANT**🔴 
+> 
+> Spheron Compute has some caching issues; recommended to run locally
+> for testing purposes; please check the guide below on running it
+> locally. Thanks.
+
 # Get Started
 
 The product contains three code bases, Server to serve Bacalhau commands and Client, a GUI code base, and Solidity code to manage and handle DAO. Database is handled by [Polybase](https://polybase.xyz/), a database for web3.
@@ -66,5 +72,4 @@ Note: It may prompt to run on a different port, hit enter.
  - [x] MVP
  - [x] Datasets
  - [x] Stable-Diffusion
- - [ ] Add models
- - [ ] Add context to the polybase, the user controls the data.
+ - [ ] Add support for models
