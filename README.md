@@ -25,7 +25,14 @@ The product contains three code bases, Server to serve Bacalhau commands and Cli
 [kissingface.xyz](https://kissingface.xyz/)
 
 **API**
+
 [API KissingFace](https://api.kissingface.xyz/)
+
+# Accomplishments/Milestones
+
+ - Tokenize the Dataset's using a basic blueprint, [read here](https://docs.google.com/document/d/1OYDh_gs7mAk2M_O9m-2KedQA7MNo6ysIzH6eaQZxMOk/edit?pli=1).
+ - Integrating Bacalhau with node.js to serve request's through APIs.
+ - Authentication for downloading dataset's and for using Bacalhau features.
 
 # Technology
  - **Bacalhau** hosted on **Spheron Decentralized Compute** [[know more]](https://spheron.network/#decentralised-compute), served using Node.js and Express.js server through APIs.
