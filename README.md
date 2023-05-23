@@ -8,9 +8,11 @@ Kissing Face is a decentralized version of [Hugging Face](https://huggingface.co
 
 > 🔴**IMPORTANT**🔴 
 > 
-> Spheron Compute has some caching issues; recommended to run locally
+> 1. Spheron Compute has some caching issues; recommended to run locally
 > for testing purposes; please check the guide below on running it
-> locally. Thanks.
+> locally.
+> 2. Use a non rate-limited RPC endpoints to avoid failures. 
+> 3. And also don't interact with older datasets, create your own before testing. Thanks :)
 
 # Get Started
 
